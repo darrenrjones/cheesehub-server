@@ -41,7 +41,8 @@ app.get('/api/cheeses', (req, res, next) => {
     "Stilton",
     "Blue Wensleydale",
     "Yorkshire Blue",
-    "stinky cheese"
+    "stinky cheese",
+    "new cheese"
 ])
 });
 
